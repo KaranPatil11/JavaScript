@@ -58,6 +58,6 @@ let str3 = str1 + str2
 // console.log(null == 0);
 // console.log(null >= 0);    //equality check and comparison works differently, comparison converts null to a number treating it as a number 
 
-console.log("2" === 2);      // strict checks its datatypes also 
-console.log(typeof "2");
+// console.log("2" === 2);      // strict checks its datatypes also 
+// console.log(typeof "2");
 

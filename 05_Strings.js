@@ -33,5 +33,5 @@ const url = "https://Karan.com/Karan%20Patil"
 
 // console.log(url.includes('Jack'));
 
-console.log(gameName.split('-'));
+// console.log(gameName.split('-'));
 
