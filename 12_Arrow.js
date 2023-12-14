@@ -45,7 +45,7 @@ const user = {
 //     return num1 + num2 
 // }
 
-// ----------------------- Implicite Return Methode -------------------
+// ----------------------- Implicite Return Methode ------------------- difference between implicite and wxplicite is that we have to call a function and name it 
 // const addTwo = (num1, num2 ) => num1 + num2 
 // const addTwo = (num1, num2 ) => (num1 + num2)  // Most IMP in React
 
