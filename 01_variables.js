@@ -12,8 +12,8 @@ let accountState;                                  // when we leave it blank the
 
 
 // accountId = "4444"
-/*console.log(accountId)
+console.log(accountId)
 console.log(accountEmail);                     // we can directly write log as a shortcut
-console.log(accountPass);*/
+console.log(accountPass);
 
 console.table([accountId, accountEmail, accountPass, accountCity, accountState]); // we can use it to display the content in tabular format
