@@ -7,10 +7,10 @@ let score = "karan"
    true => 1
    false => 0
    null => 0
-   undefined => NaN-Not a Number*/ 
+   33abc, undefined => NaN-Not a Number*/ 
 
 let valueInNumber = Number(score)
-// console.log(typeof valueInNumber); 
+console.log(typeof valueInNumber); 
 // console.log(valueInNumber); 
 
 
